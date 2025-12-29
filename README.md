@@ -1,3 +1,4 @@
+
 # Five-Nights-At-Neddys
 ¡BIENVENIDOS A ÑEDDYS! (Donde el terror pesa más que el susto).
 
@@ -23,3 +24,5 @@ Nota para el jugador: Al ser una Beta, si el juego se cierra de repente, no es u
 ![FOTO](assets/InShot_20251221_185809189.jpg)
 
 ![FOTO](assets/InShot_20251220_233251887.jpg)
+
+![Foto](assets/InShot_20251220_225220626.jpg)
