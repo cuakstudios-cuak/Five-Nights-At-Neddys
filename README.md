@@ -22,4 +22,4 @@ Nota para el jugador: Al ser una Beta, si el juego se cierra de repente, no es u
 ### Capturas de pantalla
 ![](assets/InShot_20251221_185809189.jpg)
 
-![Pantalla de ajustes](assets/pantalla-ajustes.png)
+![]()
