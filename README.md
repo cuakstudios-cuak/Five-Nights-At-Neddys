@@ -19,12 +19,13 @@ Mecánicas de Juego (Beta Style)
 Gestión de Energía: No gastes la luz en cerrar puertas. Gastala en el ventilador industrial, porque el olor a fritanga que emanan los animatrónicos es tan potente que te puede desmayar en la hora 3.
 
 Nota para el jugador: Al ser una Beta, si el juego se cierra de repente, no es un bug... es que el servidor no aguantó el peso de los modelos 3D de los personajes.
-<details>
-  <summary>📸 Haz clic para ver las capturas de pantalla</summary>
-  
-  [Screenshots]()!(https://github.com/user-attachments/assets/0e08709f-d821-4134-9b06-7edf06123e4a)(https://github.com/user-attachments/assets/243cd592-f2ef-453c-b7dc-56b1add6038a)(https://github.com/user-attachments/assets/570a17a4-95db-4d40-be31-827147879597)
-)
-)
+ <details>
+  <summary>Capturas de pantalla</summary>
+
+  [](https://github.com/user-attachments/assets/265083f5-c48c-40f4-af16-d442647d7394)
+  [](https://github.com/user-attachments/assets/8376392d-b49c-4c2e-a9c4-6712a5f2f3fd)
+  [](https://github.com/user-attachments/assets/25d40d02-f48b-4156-be6d-05d51c379f53)
+
 
 
 </details>
