@@ -20,6 +20,6 @@ Gestión de Energía: No gastes la luz en cerrar puertas. Gastala en el ventilad
 
 Nota para el jugador: Al ser una Beta, si el juego se cierra de repente, no es un bug... es que el servidor no aguantó el peso de los modelos 3D de los personajes.
 ### Capturas de pantalla
-![](assets/InShot_20251221_185809189.jpg)
+![FOTO](assets/InShot_20251221_185809189.jpg)
 
-![]()
+![FOTO](assets/InShot_20251220_233251887.jpg)
