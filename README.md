@@ -26,3 +26,5 @@ Nota para el jugador: Al ser una Beta, si el juego se cierra de repente, no es u
 ![FOTO](assets/InShot_20251220_233251887.jpg)
 
 ![Foto](assets/InShot_20251220_225220626.jpg)
+
+![Foto](assets/InShot_20251220_193111705.jpg)
